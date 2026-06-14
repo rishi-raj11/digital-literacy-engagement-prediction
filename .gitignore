@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# ML Model Files
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
